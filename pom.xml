@@ -7,7 +7,7 @@
     <groupId>eddy</groupId>
     <artifactId>test</artifactId>
     <version>0.0.1</version>
-    <name>test</name>
+    <name>patients</name>
     <packaging>war</packaging>
 
     <properties>
