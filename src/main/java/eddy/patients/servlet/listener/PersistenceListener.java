@@ -1,4 +1,4 @@
-package eddy.test.servlet.listener;
+package eddy.patients.servlet.listener;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;

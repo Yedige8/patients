@@ -1,4 +1,4 @@
-package eddy.test.entity;
+package eddy.patients.entity;
 
 import javax.persistence.*;
 import java.time.LocalDate;

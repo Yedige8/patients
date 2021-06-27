@@ -1,4 +1,4 @@
-package eddy.test.servlet;
+package eddy.patients.servlet;
 
 import java.io.*;
 import javax.servlet.http.*;

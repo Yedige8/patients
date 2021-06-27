@@ -1,7 +1,7 @@
-package eddy.test.servlet;
+package eddy.patients.servlet;
 
-import eddy.test.entity.History;
-import eddy.test.entity.Patient;
+import eddy.patients.entity.History;
+import eddy.patients.entity.Patient;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
